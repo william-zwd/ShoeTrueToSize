@@ -1,0 +1,12 @@
+[
+    {
+        "shoe": "adidas Yeezy",
+        "trueToSizeData": [1, 2, 2, 3, 2, 3, 2, 2, 3, 4, 2, 5, 2, 3],
+        "trueToSizeCalculation": 0.0
+    },
+    {
+        "shoe": "adidas Yeezy",
+        "trueToSizeData": [1, 2, 2, 3, 2, 3, 2, 2, 3, 4, 2, 5, 2, 3, 2],
+        "trueToSizeCalculation": 0.0
+    }
+]

@@ -1,0 +1,14 @@
+<h3>Shoes True to Size</h3>
+
+<div *ngFor="let shoe of shoes">
+    <h4>
+        Shoe: {{shoe.shoe}}
+    </h4>
+    <h4>
+        True to size data: {{shoe.trueToSizeData}}
+    </h4>
+    <h4>
+        True to size calculation: {{shoe.trueToSizeCalculation.toFixed(13)}}
+    </h4>
+    <br/>
+</div>
